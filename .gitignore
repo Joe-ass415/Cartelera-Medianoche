@@ -1,0 +1,14 @@
+# Dependencias y build
+node_modules
+dist
+
+# Secretos: NUNCA subir a GitHub
+.env
+.env.local
+.env.*.local
+
+# Sistema / editor
+.DS_Store
+*.log
+.vscode
+.idea
